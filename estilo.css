@@ -73,7 +73,7 @@ button{
 }
 
 #course-content h2{
-    width: 477px;
+    width: 60%;
     height: 38px;
     font-family: Raleway;
     font-weight: 700;
@@ -81,13 +81,13 @@ button{
     line-height: 37.57px;
     letter-spacing: 19%;
     color: #33A8DB;
-    margin-left: 37vw;
+    margin-left: 40%;
     padding-top: 135px;
 }
 
 #course-content p{
     color: #fff;
-    width: 792px;
+    width: 67%;
     height: 38px;
     text-align: center;
     font-family: Raleway;
@@ -98,7 +98,7 @@ button{
 }
 
 .modules-list div{
-    width: 535px; 
+    width: 50%; 
     height: 51px;
     border: 1px solid #33A8DB;
     border-radius: 57px;
@@ -106,7 +106,7 @@ button{
     margin: 30px;
     background-color: #252525;
     box-shadow: -2px 6px 4px #000 inset;
-    margin-left: 24.5vw;
+    margin-left: 14%;
 }
 
 .module span{
@@ -127,3 +127,27 @@ button{
     text-align: center;
     padding-top: 10px;
 }
+
+#transform-world{
+    background-image: url(imagens/woman-code.png);
+    width: 1730px;
+    height: 450px;
+    border: 1px solid #31A8DD;
+    margin: auto;
+    background-size:cover;
+    background-position: center;
+}
+
+#transform-world p{
+    height: 141px;
+    margin-top: 111px;
+    font-family: Raleway;
+    font-weight: 900;
+    color: #fff;
+    font-size: 40px;
+    line-height: 46.96px;
+    width: 270px;
+    margin-left: 15%;
+    text-shadow: 3px 2px #33A8DB;
+}
+
