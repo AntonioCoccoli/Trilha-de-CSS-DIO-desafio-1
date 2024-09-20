@@ -135,8 +135,8 @@ button{
     border-top: 1px solid #31A8DD;
     border-bottom: 1px solid #31A8DD;
     margin: auto;
-    background-size:cover;
-    background-position: 0 -295px;
+    background-size: 100% 100vh;
+    background-position: 0 -235px;
     background-repeat: no-repeat;
 }
 
@@ -168,5 +168,25 @@ button{
     line-height: 41.41px;
     letter-spacing: 2px;
     text-align: center;
+}
+
+#professional-challenges img{
+    width: 50%;
+    height: 20%;
+    margin-top: 80px;
+    margin-left: 25%;
+}
+
+#professional-challenges p{
+    color: #fff;
+    font-family: Raleway;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.78px;
+    text-align: center;
+    width: 45%;
+    height: 20%;
+    margin-top: 25px;
+    margin-left: 28%;
 }
 
