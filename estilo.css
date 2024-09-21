@@ -5,6 +5,7 @@ main{
     margin-top: -80px;
     width: 90vw;
     margin: auto;
+    margin-bottom: 12px;
 }
 .banner{
     background-color: #000;
@@ -154,7 +155,8 @@ button{
 }
 
 #professional-challenges{
-    margin-top: 90px;
+    margin-top: 140px;
+    margin-bottom: -16px;
 } 
 
 #professional-challenges h2{
@@ -175,6 +177,8 @@ button{
     height: 20%;
     margin-top: 80px;
     margin-left: 25%;
+    margin-bottom: 0;
+    padding-bottom: 12px;
 }
 
 #professional-challenges p{
@@ -188,5 +192,28 @@ button{
     height: 20%;
     margin-top: 25px;
     margin-left: 28%;
+    padding-bottom: 20px;
 }
 
+footer{
+    width: 90vw;
+    height: 15vh;
+    background-color: #000;
+    margin: auto;
+    padding-top: 30px;
+    border-top: 2px solid #33A8DB;
+}
+
+.dio-logo{
+    margin-top: 40px;
+    margin-left: 40%;
+}
+
+footer p{
+    color: #fff;
+    font-family: Raleway;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    line-height: 18.78px;
+}
